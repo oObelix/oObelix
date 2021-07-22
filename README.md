@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oObelix
-- 👀 I’m interested in Python, DataScience, PHP, ..
+- 👋 Hi, My name is Vyacheslav (GitHub username: @oObelix)
+- 👀 I’m interested in Python, DataScience, PHP, JavaScript ..
 - 🌱 I’m currently learning Python and DataScience
 - 💞️ I’m looking to collaborate on any interested directions!
-- 📫 Contact me via email oobelix{'a'.replace('a','@')}yandex.ru or via telegram: @tabub
+- 📫 Contact me via email oobelix{'a'.replace('a','@')}yandex.ru or telegram: @tabub
 - <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle logo" height="20"> My Kaggle profile: https://www.kaggle.com/sabadash
 
 <!---
